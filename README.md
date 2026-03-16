@@ -3,7 +3,7 @@
 <h3 align="center">
 SOC Analyst L1 | Security Operations · Threat Detection · Incident Response
 </h3>
-
+.
 <p align="center">
   <img src="https://img.shields.io/badge/SC--200-Microsoft%20Certified-blue?logo=microsoft"/>
   <img src="https://img.shields.io/badge/TryHackMe-Top%202%25%20Global-red?logo=tryhackme"/>
